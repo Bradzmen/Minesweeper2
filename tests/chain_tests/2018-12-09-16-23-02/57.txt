@@ -1,0 +1,4166 @@
+IDField:
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000011111000000
+00000000111111000000
+00000000111111000000
+00000000111111000000
+00000000111111000000
+00000000111110000000
+00000000111110000000
+00000000111110000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()(0,)(0,)(0,)(0,)(0,)()()()()()()
+()()()()()()()()(0,)(0,)(0,)(0,)(0,)(0,)()()()()()()
+()()()()()()()()(0,)(0,)(0,)(0,)(0,)(0,)()()()()()()
+()()()()()()()()(0,)(0,)(0,)(0,)(0,)(0,)()()()()()()
+()()()()()()()()(0,)(0,)(0,)(0,)(0,)(0,)()()()()()()
+()()()()()()()()(0,)(0,)(0,)(0,)(0,)()()()()()()()
+()()()()()()()()(0,)(0,)(0,)(0,)(0,)()()()()()()()
+()()()()()()()()(0,)(0,)(0,)(0,)(0,)()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 0
+isOverLimit: false
+Evaluating chain#0...
+---Chain #0 Square @ (10, 7) outdated/not solved---
+---Chain #0 Square @ (11, 7) outdated/not solved---
+---Chain #0 Square @ (12, 7) outdated/not solved---
+---Chain #0 Square @ (12, 8) outdated/not solved---
+---Chain #0 Square @ (12, 9) outdated/not solved---
+---Chain #0 Square @ (11, 10) cleared--- nNeeded,nFlags: 1,1
+---Chain #0 Square @ (11, 11) cleared--- nNeeded,nFlags: 1,1
+---Chain #0 Square @ (11, 12) outdated/not solved---
+---Chain #0 Square @ (10, 12) outdated/not solved---
+---Chain #0 Square @ (9, 12) outdated/not solved---
+---Chain #0 Square @ (9, 11) outdated/not solved---
+---Chain #0 Square @ (9, 10) outdated/not solved---
+---Chain #0 Square @ (9, 9) outdated/not solved---
+---Chain #0 Square @ (9, 8) outdated/not solved---
+---Chain #0 Square @ (10, 8) cleared--- nNeeded,nFlags: 1,1
+---Chain #0 Square @ (10, 7) outdated/not solved---
+---Chain #0 Square @ (11, 7) outdated/not solved---
+---Chain #0 Square @ (12, 7) outdated/not solved---
+---Chain #0 Square @ (12, 8) outdated/not solved---
+---Chain #0 Square @ (12, 9) outdated/not solved---
+---Chain #0 Square @ (11, 9) cleared--- nNeeded,nFlags: 1,1
+---Chain #0 Square @ (11, 12) outdated/not solved---
+---Chain #0 Square @ (10, 12) outdated/not solved---
+---Chain #0 Square @ (9, 12) outdated/not solved---
+---Chain #0 Square @ (9, 11) outdated/not solved---
+---Chain #0 Square @ (9, 10) outdated/not solved---
+---Chain #0 Square @ (9, 9) outdated/not solved---
+---Chain #0 Square @ (9, 8) outdated/not solved---
+---Chain #0 Square @ (10, 7) outdated/not solved---
+---Chain #0 Square @ (11, 7) outdated/not solved---
+---Chain #0 Square @ (12, 7) outdated/not solved---
+---Chain #0 Square @ (12, 8) outdated/not solved---
+---Chain #0 Square @ (12, 9) outdated/not solved---
+---Chain #0 Square @ (11, 12) outdated/not solved---
+---Chain #0 Square @ (10, 12) outdated/not solved---
+---Chain #0 Square @ (9, 12) outdated/not solved---
+---Chain #0 Square @ (9, 11) outdated/not solved---
+---Chain #0 Square @ (9, 10) outdated/not solved---
+---Chain #0 Square @ (9, 9) outdated/not solved---
+---Chain #0 Square @ (9, 8) outdated/not solved---
+Killed chain #0
+Chain #0 called for self-destruct
+revealedField:
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+?????????F222???????
+?????????21.1?212???
+?????????1.1221.1???
+?????????1.1F1..2???
+?????????1.111.13???
+?????????111..12????
+???????????1..1?????
+???????????2212?????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+canMakeChain: true
+IDField:
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000011111000000
+00000000111111111100
+00000000111111111100
+00000000111111111100
+00000000111111111100
+00000000111111111100
+00000000111111111100
+00000000111111111000
+00000000001111110000
+00000000001111110000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()(1,)(1,)(1,)(1,)(1,)()()()()()()
+()()()()()()()()(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)()()
+()()()()()()()()(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)()()
+()()()()()()()()(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)()()
+()()()()()()()()(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)()()
+()()()()()()()()(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)()()
+()()()()()()()()(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)()()
+()()()()()()()()(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)(1,)()()()
+()()()()()()()()()()(1,)(1,)(1,)(1,)(1,)(1,)()()()()
+()()()()()()()()()()(1,)(1,)(1,)(1,)(1,)(1,)()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 1
+isOverLimit: false
+Evaluating chain#1...
+---Chain #1 Square @ (9, 8) outdated/not solved---
+---Chain #1 Square @ (9, 9) outdated/not solved---
+---Chain #1 Square @ (9, 10) outdated/not solved---
+---Chain #1 Square @ (9, 11) outdated/not solved---
+---Chain #1 Square @ (9, 12) outdated/not solved---
+---Chain #1 Square @ (10, 12) outdated/not solved---
+---Chain #1 Square @ (11, 13) cleared--- nNeeded,nFlags: 1,1
+---Chain #1 Square @ (11, 14) outdated/not solved---
+---Chain #1 Square @ (12, 14) outdated/not solved---
+---Chain #1 Square @ (13, 14) outdated/not solved---
+---Chain #1 Square @ (14, 14) outdated/not solved---
+---Chain #1 Square @ (14, 13) outdated/not solved---
+---Chain #1 Square @ (15, 12) outdated/not solved---
+---Chain #1 Square @ (16, 11) outdated/not solved---
+---Chain #1 Square @ (16, 10) outdated/not solved---
+---Chain #1 Square @ (16, 9) outdated/not solved---
+---Chain #1 Square @ (16, 8) outdated/not solved---
+---Chain #1 Square @ (15, 8) outdated/not solved---
+---Chain #1 Square @ (14, 8) outdated/not solved---
+---Chain #1 Square @ (13, 9) cleared--- nNeeded,nFlags: 2,2
+---Chain #1 Square @ (12, 9) cleared--- nNeeded,nFlags: 2,2
+---Chain #1 Square @ (12, 8) cleared--- nNeeded,nFlags: 1,1
+---Chain #1 Square @ (12, 7) outdated/not solved---
+---Chain #1 Square @ (11, 7) outdated/not solved---
+---Chain #1 Square @ (10, 7) outdated/not solved---
+---Chain #1 Square @ (9, 8) outdated/not solved---
+---Chain #1 Square @ (9, 9) outdated/not solved---
+---Chain #1 Square @ (9, 10) outdated/not solved---
+---Chain #1 Square @ (9, 11) outdated/not solved---
+---Chain #1 Square @ (9, 12) cleared--- nNeeded,nFlags: 1,1
+---Chain #1 Square @ (10, 12) cleared--- nNeeded,nFlags: 1,1
+---Chain #1 Square @ (11, 12) cleared--- nNeeded,nFlags: 1,1
+---Chain #1 Square @ (11, 14) outdated/not solved---
+---Chain #1 Square @ (12, 14) outdated/not solved---
+---Chain #1 Square @ (13, 14) outdated/not solved---
+---Chain #1 Square @ (14, 14) outdated/not solved---
+---Chain #1 Square @ (14, 13) cleared--- nNeeded,nFlags: 1,1
+---Chain #1 Square @ (14, 12) cleared--- nNeeded,nFlags: 1,1
+---Chain #1 Square @ (15, 12) cleared--- nNeeded,nFlags: 2,2
+---Chain #1 Square @ (15, 11) cleared--- nNeeded,nFlags: 1,1
+---Chain #1 Square @ (16, 11) outdated/not solved---
+---Chain #1 Square @ (16, 10) outdated/not solved---
+---Chain #1 Square @ (16, 9) outdated/not solved---
+---Chain #1 Square @ (16, 8) outdated/not solved---
+---Chain #1 Square @ (15, 8) outdated/not solved---
+---Chain #1 Square @ (14, 8) outdated/not solved---
+---Chain #1 Square @ (14, 9) cleared--- nNeeded,nFlags: 1,1
+---Chain #1 Square @ (12, 7) outdated/not solved---
+---Chain #1 Square @ (11, 7) outdated/not solved---
+---Chain #1 Square @ (10, 7) outdated/not solved---
+---Chain #1 Square @ (9, 8) outdated/not solved---
+---Chain #1 Square @ (9, 9) outdated/not solved---
+---Chain #1 Square @ (9, 10) outdated/not solved---
+---Chain #1 Square @ (9, 11) outdated/not solved---
+---Chain #1 Square @ (11, 14) outdated/not solved---
+---Chain #1 Square @ (12, 14) outdated/not solved---
+---Chain #1 Square @ (13, 14) outdated/not solved---
+---Chain #1 Square @ (14, 14) outdated/not solved---
+---Chain #1 Square @ (16, 11) outdated/not solved---
+---Chain #1 Square @ (16, 10) outdated/not solved---
+---Chain #1 Square @ (16, 9) outdated/not solved---
+---Chain #1 Square @ (16, 8) outdated/not solved---
+---Chain #1 Square @ (15, 8) outdated/not solved---
+---Chain #1 Square @ (14, 8) outdated/not solved---
+---Chain #1 Square @ (12, 7) outdated/not solved---
+---Chain #1 Square @ (11, 7) outdated/not solved---
+---Chain #1 Square @ (10, 7) outdated/not solved---
+Killed chain #1
+Chain #1 called for self-destruct
+revealedField:
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+?????????F2222??????
+?????????21.1F212???
+?????????1.1221.1???
+?????????1.1F1..2???
+????????11.111.13???
+????????1111..12F???
+????????11F1..1F2???
+??????????222121????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+canMakeChain: true
+IDField:
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000011111100000
+00000000011111100000
+00000000011111100000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()(2,)(2,)(2,)(2,)(2,)(2,)()()()()()
+()()()()()()()()()(2,)(2,)(2,)(2,)(2,)(2,)()()()()()
+()()()()()()()()()(2,)(2,)(2,)(2,)(2,)(2,)()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 2
+isOverLimit: false
+Evaluating chain#2...
+---Chain #2 Square @ (13, 7) outdated/not solved---
+---Chain #2 Square @ (12, 7) outdated/not solved---
+---Chain #2 Square @ (11, 7) outdated/not solved---
+---Chain #2 Square @ (10, 7) outdated/not solved---
+revealedField:
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+?????????F2222??????
+?????????21.1F212???
+?????????1.1221.1???
+?????????1.1F1..2???
+????????11.111.13???
+????????1111..12F???
+????????11F1..1F2???
+??????????222121????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+canMakeChain: true
+IDField:
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000011111100000
+00000000011112211100
+00000000011112211100
+00000000000001111100
+00000000000000011100
+00000000000000011100
+00000000000000011100
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()(2,)(2,)(2,)(2,)(2,)(2,)()()()()()
+()()()()()()()()()(2,)(2,)(2,)(2,)(2,3,)(2,3,)(3,)(3,)(3,)()()
+()()()()()()()()()(2,)(2,)(2,)(2,)(2,3,)(2,3,)(3,)(3,)(3,)()()
+()()()()()()()()()()()()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 3
+isOverLimit: false
+Evaluating chain#3...
+---Chain #3 Square @ (16, 11) outdated/not solved---
+---Chain #3 Square @ (16, 10) outdated/not solved---
+---Chain #3 Square @ (16, 9) outdated/not solved---
+---Chain #3 Square @ (16, 8) outdated/not solved---
+---Chain #3 Square @ (15, 8) outdated/not solved---
+---Chain #3 Square @ (14, 8) outdated/not solved---
+Evaluating chain#2...
+---Chain #2 Square @ (13, 7) outdated/not solved---
+---Chain #2 Square @ (12, 7) outdated/not solved---
+---Chain #2 Square @ (11, 7) outdated/not solved---
+---Chain #2 Square @ (10, 7) outdated/not solved---
+revealedField:
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+?????????F2222??????
+?????????21.1F212???
+?????????1.1221.1???
+?????????1.1F1..2???
+????????11.111.13???
+????????1111..12F???
+????????11F1..1F2???
+??????????222121????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+canMakeChain: true
+IDField:
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000011111100000
+00000000122112211100
+00000000122112211100
+00000000111001111100
+00000001111000011100
+00000001111000011100
+00000001111000011100
+00000001111000000000
+00000001111000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()(2,)(2,)(2,)(2,)(2,)(2,)()()()()()
+()()()()()()()()(4,)(2,4,)(2,4,)(2,)(2,)(2,3,)(2,3,)(3,)(3,)(3,)()()
+()()()()()()()()(4,)(2,4,)(2,4,)(2,)(2,)(2,3,)(2,3,)(3,)(3,)(3,)()()
+()()()()()()()()(4,)(4,)(4,)()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()()()(4,)(4,)(4,)(4,)()()()()(3,)(3,)(3,)()()
+()()()()()()()(4,)(4,)(4,)(4,)()()()()(3,)(3,)(3,)()()
+()()()()()()()(4,)(4,)(4,)(4,)()()()()(3,)(3,)(3,)()()
+()()()()()()()(4,)(4,)(4,)(4,)()()()()()()()()()
+()()()()()()()(4,)(4,)(4,)(4,)()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 4
+isOverLimit: false
+Evaluating chain#4...
+---Chain #4 Square @ (9, 13) cleared--- nNeeded,nFlags: 1,1
+---Chain #4 Square @ (8, 13) outdated/not solved---
+---Chain #4 Square @ (8, 12) outdated/not solved---
+---Chain #4 Square @ (8, 11) outdated/not solved---
+---Chain #4 Square @ (9, 10) cleared--- nNeeded,nFlags: 1,1
+---Chain #4 Square @ (9, 9) cleared--- nNeeded,nFlags: 1,1
+---Chain #4 Square @ (9, 8) outdated/not solved---
+---Chain #4 Square @ (8, 13) outdated/not solved---
+---Chain #4 Square @ (8, 12) outdated/not solved---
+---Chain #4 Square @ (8, 11) cleared--- nNeeded,nFlags: 1,1
+---Chain #4 Square @ (9, 11) cleared--- nNeeded,nFlags: 1,1
+---Chain #4 Square @ (9, 8) outdated/not solved---
+---Chain #4 Square @ (8, 13) outdated/not solved---
+---Chain #4 Square @ (8, 12) outdated/not solved---
+---Chain #4 Square @ (9, 8) outdated/not solved---
+Killed chain #4
+Chain #4 called for self-destruct
+Evaluating chain#3...
+---Chain #3 Square @ (16, 11) outdated/not solved---
+---Chain #3 Square @ (16, 10) outdated/not solved---
+---Chain #3 Square @ (16, 9) outdated/not solved---
+---Chain #3 Square @ (16, 8) outdated/not solved---
+---Chain #3 Square @ (15, 8) outdated/not solved---
+---Chain #3 Square @ (14, 8) outdated/not solved---
+Evaluating chain#2...
+---Chain #2 Square @ (13, 7) outdated/not solved---
+---Chain #2 Square @ (12, 7) outdated/not solved---
+---Chain #2 Square @ (11, 7) outdated/not solved---
+---Chain #2 Square @ (10, 7) outdated/not solved---
+revealedField:
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+?????????F2222??????
+????????321.1F212???
+????????21.1221.1???
+???????1F1.1F1..2???
+???????111.111.13???
+???????11111..12F???
+????????11F1..1F2???
+????????22222121????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+canMakeChain: true
+IDField:
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000011111100000
+00000001122112211100
+00000001122112211100
+00000001111001111100
+00000001110000011100
+00000000000000011100
+00000000000000011100
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()(2,)(2,)(2,)(2,)(2,)(2,)()()()()()
+()()()()()()()(5,)(5,)(2,5,)(2,5,)(2,)(2,)(2,3,)(2,3,)(3,)(3,)(3,)()()
+()()()()()()()(5,)(5,)(2,5,)(2,5,)(2,)(2,)(2,3,)(2,3,)(3,)(3,)(3,)()()
+()()()()()()()(5,)(5,)(5,)(5,)()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()()()(5,)(5,)(5,)()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 5
+isOverLimit: false
+Evaluating chain#5...
+---Chain #5 Square @ (8, 9) outdated/not solved---
+---Chain #5 Square @ (8, 8) outdated/not solved---
+---Chain #5 Square @ (8, 9) outdated/not solved---
+---Chain #5 Square @ (8, 8) outdated/not solved---
+---Chain #5 Square @ (9, 8) cleared--- nNeeded,nFlags: 2,2
+---Chain #5 Square @ (8, 9) outdated/not solved---
+---Chain #5 Square @ (8, 8) outdated/not solved---
+Killed chain #5
+Chain #5 called for self-destruct
+Evaluating chain#3...
+---Chain #3 Square @ (16, 11) outdated/not solved---
+---Chain #3 Square @ (16, 10) outdated/not solved---
+---Chain #3 Square @ (16, 9) outdated/not solved---
+---Chain #3 Square @ (16, 8) outdated/not solved---
+---Chain #3 Square @ (15, 8) outdated/not solved---
+---Chain #3 Square @ (14, 8) outdated/not solved---
+Evaluating chain#2...
+---Chain #2 Square @ (13, 7) outdated/not solved---
+---Chain #2 Square @ (12, 7) outdated/not solved---
+---Chain #2 Square @ (11, 7) outdated/not solved---
+---Chain #2 Square @ (10, 7) outdated/not solved---
+revealedField:
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????FF2222??????
+????????321.1F212???
+????????21.1221.1???
+???????1F1.1F1..2???
+???????111.111.13???
+???????11111..12F???
+????????11F1..1F2???
+????????22222121????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+canMakeChain: true
+IDField:
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000011111100000
+00000001121112211100
+00000001121112211100
+00000001110001111100
+00000001110000011100
+00000000000000011100
+00000000000000011100
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()(2,)(2,)(2,)(2,)(2,)(2,)()()()()()
+()()()()()()()(6,)(6,)(2,6,)(2,)(2,)(2,)(2,3,)(2,3,)(3,)(3,)(3,)()()
+()()()()()()()(6,)(6,)(2,6,)(2,)(2,)(2,)(2,3,)(2,3,)(3,)(3,)(3,)()()
+()()()()()()()(6,)(6,)(6,)()()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()()()(6,)(6,)(6,)()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 6
+isOverLimit: false
+Evaluating chain#6...
+---Chain #6 Square @ (8, 9) outdated/not solved---
+---Chain #6 Square @ (8, 8) outdated/not solved---
+Evaluating chain#3...
+---Chain #3 Square @ (16, 11) outdated/not solved---
+---Chain #3 Square @ (16, 10) outdated/not solved---
+---Chain #3 Square @ (16, 9) outdated/not solved---
+---Chain #3 Square @ (16, 8) outdated/not solved---
+---Chain #3 Square @ (15, 8) outdated/not solved---
+---Chain #3 Square @ (14, 8) outdated/not solved---
+Evaluating chain#2...
+---Chain #2 Square @ (13, 7) outdated/not solved---
+---Chain #2 Square @ (12, 7) outdated/not solved---
+---Chain #2 Square @ (11, 7) outdated/not solved---
+---Chain #2 Square @ (10, 7) outdated/not solved---
+revealedField:
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????FF2222??????
+????????321.1F212???
+????????21.1221.1???
+???????1F1.1F1..2???
+???????111.111.13???
+???????11111..12F???
+????????11F1..1F2???
+????????22222121????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+????????????????????
+canMakeChain: true
+IDField:
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000011111100000
+00000001121112211100
+00000001121112211100
+00000012210001111100
+00000012210000011100
+00000011110000011100
+00000011110000011100
+00000011111111111000
+00000001111111111000
+00000001111111111000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()(2,)(2,)(2,)(2,)(2,)(2,)()()()()()
+()()()()()()()(6,)(6,)(2,6,)(2,)(2,)(2,)(2,3,)(2,3,)(3,)(3,)(3,)()()
+()()()()()()()(6,)(6,)(2,6,)(2,)(2,)(2,)(2,3,)(2,3,)(3,)(3,)(3,)()()
+()()()()()()(7,)(6,7,)(6,7,)(6,)()()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()()(7,)(6,7,)(6,7,)(6,)()()()()()(3,)(3,)(3,)()()
+()()()()()()(7,)(7,)(7,)(7,)()()()()()(3,)(3,)(3,)()()
+()()()()()()(7,)(7,)(7,)(7,)()()()()()(3,)(3,)(3,)()()
+()()()()()()(7,)(7,)(7,)(7,)(7,)(7,)(7,)(7,)(7,)(7,)(7,)()()()
+()()()()()()()(7,)(7,)(7,)(7,)(7,)(7,)(7,)(7,)(7,)(7,)()()()
+()()()()()()()(7,)(7,)(7,)(7,)(7,)(7,)(7,)(7,)(7,)(7,)()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 7
+isOverLimit: false
+Evaluating chain#7...
+---Chain #7 Square @ (15, 14) cleared--- nNeeded,nFlags: 1,1
+---Chain #7 Square @ (14, 14) outdated/not solved---
+---Chain #7 Square @ (13, 14) outdated/not solved---
+---Chain #7 Square @ (12, 14) outdated/not solved---
+---Chain #7 Square @ (11, 14) outdated/not solved---
+---Chain #7 Square @ (10, 14) outdated/not solved---
+---Chain #7 Square @ (9, 14) outdated/not solved---
+---Chain #7 Square @ (8, 14) outdated/not solved---
+---Chain #7 Square @ (8, 13) outdated/not solved---
+---Chain #7 Square @ (7, 12) cleared--- nNeeded,nFlags: 1,1
+---Chain #7 Square @ (7, 11) cleared--- nNeeded,nFlags: 1,1
+---Chain #7 Square @ (7, 10) cleared--- nNeeded,nFlags: 1,1
+---Chain #7 Square @ (14, 14) outdated/not solved---
+---Chain #7 Square @ (13, 14) outdated/not solved---
+---Chain #7 Square @ (12, 14) outdated/not solved---
+---Chain #7 Square @ (11, 14) outdated/not solved---
+---Chain #7 Square @ (10, 14) outdated/not solved---
+---Chain #7 Square @ (9, 14) outdated/not solved---
+---Chain #7 Square @ (8, 14) outdated/not solved---
+---Chain #7 Square @ (8, 13) cleared--- nNeeded,nFlags: 1,1
+---Chain #7 Square @ (8, 12) cleared--- nNeeded,nFlags: 1,1
+---Chain #7 Square @ (14, 14) outdated/not solved---
+---Chain #7 Square @ (13, 14) outdated/not solved---
+---Chain #7 Square @ (12, 14) outdated/not solved---
+---Chain #7 Square @ (11, 14) outdated/not solved---
+---Chain #7 Square @ (10, 14) outdated/not solved---
+---Chain #7 Square @ (9, 14) outdated/not solved---
+---Chain #7 Square @ (8, 14) outdated/not solved---
+Killed chain #7
+Chain #7 called for self-destruct
+Evaluating chain#6...
+---Chain #6 Square @ (8, 9) outdated/not solved---
+---Chain #6 Square @ (8, 8) outdated/not solved---
+Evaluating chain#3...
+---Chain #3 Square @ (16, 11) outdated/not solved---
+---Chain #3 Square @ (16, 10) outdated/not solved---
+---Chain #3 Square @ (16, 9) outdated/not solved---
+---Chain #3 Square @ (16, 8) outdated/not solved---
+---Chain #3 Square @ (15, 8) outdated/not solved---
+---Chain #3 Square @ (14, 8) outdated/not solved---
+Evaluating chain#2...
+---Chain #2 Square @ (13, 7) outdated/not solved---
+---Chain #2 Square @ (12, 7) outdated/not solved---
+---Chain #2 Square @ (11, 7) outdated/not solved---
+---Chain #2 Square @ (10, 7) outdated/not solved---
+revealedField:
+......1?????????????
+......1?????????????
+......112???????????
+...111..11223322????
+...1?1.........1????
+..12?221111211.2????
+..1??????????112????
+..1122??FF2222??????
+.....12?321.1F212???
+.111..1221.1221.1???
+.1?1...1F1.1F1..2???
+12?1111111.111.13???
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000111000000000000
+00000111110000000000
+00111111111111111000
+00111111111111111000
+01111111111111111000
+01111111111111111000
+01111111122222211000
+01111112232223322100
+01111112232223311100
+00001112220001111100
+00000112220000011100
+00000000000000011100
+00000000000000011100
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()(8,)(8,)(8,)()()()()()()()()()()()()
+()()()()()(8,)(8,)(8,)(8,)(8,)()()()()()()()()()()
+()()(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)()()()
+()()(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)()()()
+()(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)()()()
+()(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)()()()
+()(8,)(8,)(8,)(8,)(8,)(8,)(8,)(8,)(2,8,)(2,8,)(2,8,)(2,8,)(2,8,)(2,8,)(8,)(8,)()()()
+()(8,)(8,)(8,)(8,)(8,)(8,)(6,8,)(6,8,)(2,6,8,)(2,8,)(2,8,)(2,8,)(2,3,8,)(2,3,8,)(3,8,)(3,8,)(3,)()()
+()(8,)(8,)(8,)(8,)(8,)(8,)(6,8,)(6,8,)(2,6,8,)(2,8,)(2,8,)(2,8,)(2,3,8,)(2,3,8,)(3,)(3,)(3,)()()
+()()()()(8,)(8,)(8,)(6,8,)(6,8,)(6,8,)()()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()(8,)(8,)(6,8,)(6,8,)(6,8,)()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 8
+isOverLimit: false
+Evaluating chain#8...
+---Chain #8 Square @ (10, 7) outdated/not solved---
+---Chain #8 Square @ (11, 7) outdated/not solved---
+---Chain #8 Square @ (12, 7) outdated/not solved---
+---Chain #8 Square @ (13, 7) outdated/not solved---
+---Chain #8 Square @ (13, 6) outdated/not solved---
+---Chain #8 Square @ (12, 5) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (11, 5) outdated/not solved---
+---Chain #8 Square @ (10, 5) outdated/not solved---
+---Chain #8 Square @ (9, 5) outdated/not solved---
+---Chain #8 Square @ (8, 5) outdated/not solved---
+---Chain #8 Square @ (7, 5) outdated/not solved---
+---Chain #8 Square @ (6, 5) outdated/not solved---
+---Chain #8 Square @ (5, 5) outdated/not solved---
+---Chain #8 Square @ (5, 4) outdated/not solved---
+---Chain #8 Square @ (4, 3) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (3, 3) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (3, 4) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (3, 5) outdated/not solved---
+---Chain #8 Square @ (2, 6) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (2, 7) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (3, 7) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (4, 7) outdated/not solved---
+---Chain #8 Square @ (5, 7) outdated/not solved---
+---Chain #8 Square @ (6, 8) outdated/not solved---
+---Chain #8 Square @ (7, 9) cleared--- nNeeded,nFlags: 2,2
+---Chain #8 Square @ (8, 9) cleared--- nNeeded,nFlags: 2,2
+---Chain #8 Square @ (8, 8) cleared--- nNeeded,nFlags: 3,3
+---Chain #8 Square @ (15, 6) outdated/not solved---
+---Chain #8 Square @ (15, 5) outdated/not solved---
+---Chain #8 Square @ (15, 4) outdated/not solved---
+---Chain #8 Square @ (15, 3) outdated/not solved---
+---Chain #8 Square @ (14, 3) outdated/not solved---
+---Chain #8 Square @ (12, 3) outdated/not solved---
+---Chain #8 Square @ (11, 3) outdated/not solved---
+---Chain #8 Square @ (10, 3) outdated/not solved---
+---Chain #8 Square @ (9, 3) outdated/not solved---
+---Chain #8 Square @ (8, 2) outdated/not solved---
+---Chain #8 Square @ (7, 2) outdated/not solved---
+---Chain #8 Square @ (6, 1) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (6, 0) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (10, 7) outdated/not solved---
+---Chain #8 Square @ (11, 7) outdated/not solved---
+---Chain #8 Square @ (12, 7) cleared--- nNeeded,nFlags: 2,2
+---Chain #8 Square @ (13, 7) cleared--- nNeeded,nFlags: 2,2
+---Chain #8 Square @ (13, 6) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (13, 5) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (11, 5) outdated/not solved---
+---Chain #8 Square @ (10, 5) outdated/not solved---
+---Chain #8 Square @ (9, 5) outdated/not solved---
+---Chain #8 Square @ (8, 5) outdated/not solved---
+---Chain #8 Square @ (7, 5) outdated/not solved---
+---Chain #8 Square @ (6, 5) outdated/not solved---
+---Chain #8 Square @ (5, 5) outdated/not solved---
+---Chain #8 Square @ (5, 4) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (5, 3) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (3, 5) cleared--- nNeeded,nFlags: 2,2
+---Chain #8 Square @ (2, 5) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (4, 7) outdated/not solved---
+---Chain #8 Square @ (5, 7) outdated/not solved---
+---Chain #8 Square @ (5, 8) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (6, 8) cleared--- nNeeded,nFlags: 2,2
+---Chain #8 Square @ (6, 9) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (15, 6) outdated/not solved---
+---Chain #8 Square @ (15, 5) outdated/not solved---
+---Chain #8 Square @ (15, 4) outdated/not solved---
+---Chain #8 Square @ (15, 3) outdated/not solved---
+---Chain #8 Square @ (14, 3) cleared--- nNeeded,nFlags: 2,2
+---Chain #8 Square @ (13, 3) cleared--- nNeeded,nFlags: 3,3
+---Chain #8 Square @ (12, 3) outdated/not solved---
+---Chain #8 Square @ (11, 3) outdated/not solved---
+---Chain #8 Square @ (10, 3) outdated/not solved---
+---Chain #8 Square @ (9, 3) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (8, 3) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (8, 2) cleared--- nNeeded,nFlags: 2,2
+---Chain #8 Square @ (7, 2) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (6, 2) cleared--- nNeeded,nFlags: 1,1
+---Chain #8 Square @ (10, 7) outdated/not solved---
+---Chain #8 Square @ (11, 7) outdated/not solved---
+---Chain #8 Square @ (11, 5) outdated/not solved---
+---Chain #8 Square @ (10, 5) outdated/not solved---
+---Chain #8 Square @ (9, 5) outdated/not solved---
+---Chain #8 Square @ (8, 5) outdated/not solved---
+---Chain #8 Square @ (7, 5) outdated/not solved---
+---Chain #8 Square @ (6, 5) outdated/not solved---
+---Chain #8 Square @ (5, 5) outdated/not solved---
+---Chain #8 Square @ (4, 7) outdated/not solved---
+---Chain #8 Square @ (5, 7) outdated/not solved---
+---Chain #8 Square @ (15, 6) outdated/not solved---
+---Chain #8 Square @ (15, 5) outdated/not solved---
+---Chain #8 Square @ (15, 4) outdated/not solved---
+---Chain #8 Square @ (15, 3) outdated/not solved---
+---Chain #8 Square @ (12, 3) outdated/not solved---
+---Chain #8 Square @ (11, 3) outdated/not solved---
+---Chain #8 Square @ (10, 3) outdated/not solved---
+Killed chain #8
+Chain #8 called for self-destruct
+Evaluating chain#6...
+---Chain #6 Square @ (8, 9) cleared--- nNeeded,nFlags: 2,2
+---Chain #6 Square @ (8, 8) cleared--- nNeeded,nFlags: 3,3
+Chain #6 called for self-destruct
+Evaluating chain#3...
+---Chain #3 Square @ (16, 11) outdated/not solved---
+---Chain #3 Square @ (16, 10) outdated/not solved---
+---Chain #3 Square @ (16, 9) outdated/not solved---
+---Chain #3 Square @ (16, 8) outdated/not solved---
+---Chain #3 Square @ (15, 8) outdated/not solved---
+---Chain #3 Square @ (14, 8) outdated/not solved---
+Evaluating chain#2...
+---Chain #2 Square @ (13, 7) cleared--- nNeeded,nFlags: 2,2
+---Chain #2 Square @ (12, 7) cleared--- nNeeded,nFlags: 2,2
+---Chain #2 Square @ (11, 7) outdated/not solved---
+---Chain #2 Square @ (10, 7) outdated/not solved---
+---Chain #2 Square @ (11, 7) outdated/not solved---
+---Chain #2 Square @ (10, 7) outdated/not solved---
+Killed chain #2
+Chain #2 called for self-destruct
+revealedField:
+......12????????????
+......1F32??????????
+......112F2?FFF1????
+...111..11223322????
+...1F1.........1????
+..123221111211.2????
+..1F2??????2F112????
+..1122F4FF22222?????
+.....12F321.1F212???
+.111..1221.1221.1???
+.1?1...1F1.1F1..2???
+12?1111111.111.13???
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000011100000000000
+00000011100000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000001110001111100
+00000001110001111100
+00000001110001111100
+00000001110000011100
+00000000000000011100
+00000000000000011100
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,)(9,)()()()()()()()()()()()
+()()()()()()(9,)(9,)(9,)()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()()()(6,)(6,)(6,)()()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()()()(6,)(6,)(6,)()()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()()()(6,)(6,)(6,)()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 9
+isOverLimit: false
+Evaluating chain#9...
+---Chain #9 Square @ (7, 0) cleared--- nNeeded,nFlags: 2,2
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+Evaluating chain#3...
+---Chain #3 Square @ (16, 11) outdated/not solved---
+---Chain #3 Square @ (16, 10) outdated/not solved---
+---Chain #3 Square @ (16, 9) outdated/not solved---
+---Chain #3 Square @ (16, 8) outdated/not solved---
+---Chain #3 Square @ (15, 8) outdated/not solved---
+---Chain #3 Square @ (14, 8) outdated/not solved---
+revealedField:
+......12F???????????
+......1F32??????????
+......112F2?FFF1????
+...111..11223322????
+...1F1.........1????
+..123221111211.2????
+..1F2??????2F112????
+..1122F4FF22222?????
+.....12F321.1F212???
+.111..1221.1221.1???
+.1?1...1F1.1F1..2???
+12?1111111.111.13???
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211000000000
+00000012211000000000
+00000001111000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000001110001111100
+00000001110001111100
+00000001110001111100
+00000001110000011100
+00000000000000011100
+00000000000000011100
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)()()()()()()()()()
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)()()()()()()()()()
+()()()()()()()(10,)(10,)(10,)(10,)()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()()()(6,)(6,)(6,)()()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()()()(6,)(6,)(6,)()()()(3,)(3,)(3,)(3,)(3,)()()
+()()()()()()()(6,)(6,)(6,)()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()(3,)(3,)(3,)()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 10
+isOverLimit: false
+Evaluating chain#10...
+---Chain #10 Square @ (8, 1) cleared--- nNeeded,nFlags: 3,3
+---Chain #10 Square @ (9, 1) cleared--- nNeeded,nFlags: 2,2
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+Evaluating chain#3...
+---Chain #3 Square @ (16, 11) outdated/not solved---
+---Chain #3 Square @ (16, 10) outdated/not solved---
+---Chain #3 Square @ (16, 9) outdated/not solved---
+---Chain #3 Square @ (16, 8) outdated/not solved---
+---Chain #3 Square @ (15, 8) outdated/not solved---
+---Chain #3 Square @ (14, 8) outdated/not solved---
+revealedField:
+......12F11?????????
+......1F323?????????
+......112F2?FFF1????
+...111..11223322????
+...1F1.........1????
+..123221111211.2????
+..1F2??????2F112????
+..1122F4FF22222?????
+.....12F321.1F212???
+.111..1221.1221.1???
+.1?1...1F1.1F1..2???
+12?1111111.111.13???
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211000000000
+00000012211000111000
+00000001111000111000
+00000000000000111000
+00000000000000111000
+00000000000001111000
+00000000000001111000
+00000001110002222200
+00000001110002222200
+00000001110002222200
+00000001110000022200
+00000000000000022200
+00000000000000022200
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)()()()()()()()()()
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)()()()(11,)(11,)(11,)()()()
+()()()()()()()(10,)(10,)(10,)(10,)()()()(11,)(11,)(11,)()()()
+()()()()()()()()()()()()()()(11,)(11,)(11,)()()()
+()()()()()()()()()()()()()()(11,)(11,)(11,)()()()
+()()()()()()()()()()()()()(11,)(11,)(11,)(11,)()()()
+()()()()()()()()()()()()()(11,)(11,)(11,)(11,)()()()
+()()()()()()()(6,)(6,)(6,)()()()(3,11,)(3,11,)(3,11,)(3,11,)(3,11,)()()
+()()()()()()()(6,)(6,)(6,)()()()(3,11,)(3,11,)(3,11,)(3,11,)(3,11,)()()
+()()()()()()()(6,)(6,)(6,)()()()(3,11,)(3,11,)(3,11,)(3,11,)(3,11,)()()
+()()()()()()()(6,)(6,)(6,)()()()()()(3,11,)(3,11,)(3,11,)()()
+()()()()()()()()()()()()()()()(3,11,)(3,11,)(3,11,)()()
+()()()()()()()()()()()()()()()(3,11,)(3,11,)(3,11,)()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 11
+isOverLimit: false
+Evaluating chain#11...
+---Chain #11 Square @ (16, 10) cleared--- nNeeded,nFlags: 2,2
+---Chain #11 Square @ (16, 9) cleared--- nNeeded,nFlags: 1,1
+---Chain #11 Square @ (16, 8) outdated/not solved---
+---Chain #11 Square @ (15, 8) outdated/not solved---
+---Chain #11 Square @ (14, 7) cleared--- nNeeded,nFlags: 2,2
+---Chain #11 Square @ (14, 6) cleared--- nNeeded,nFlags: 1,1
+---Chain #11 Square @ (15, 6) outdated/not solved---
+---Chain #11 Square @ (15, 5) outdated/not solved---
+---Chain #11 Square @ (15, 4) outdated/not solved---
+---Chain #11 Square @ (15, 3) outdated/not solved---
+---Chain #11 Square @ (15, 2) cleared--- nNeeded,nFlags: 1,1
+---Chain #11 Square @ (16, 11) cleared--- nNeeded,nFlags: 3,3
+---Chain #11 Square @ (16, 8) outdated/not solved---
+---Chain #11 Square @ (15, 8) cleared--- nNeeded,nFlags: 1,1
+---Chain #11 Square @ (14, 8) cleared--- nNeeded,nFlags: 2,2
+---Chain #11 Square @ (15, 6) outdated/not solved---
+---Chain #11 Square @ (15, 5) outdated/not solved---
+---Chain #11 Square @ (15, 4) outdated/not solved---
+---Chain #11 Square @ (15, 3) outdated/not solved---
+---Chain #11 Square @ (16, 8) outdated/not solved---
+---Chain #11 Square @ (15, 6) outdated/not solved---
+---Chain #11 Square @ (15, 5) outdated/not solved---
+---Chain #11 Square @ (15, 4) outdated/not solved---
+---Chain #11 Square @ (15, 3) outdated/not solved---
+Killed chain #11
+Chain #11 called for self-destruct
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+Evaluating chain#3...
+---Chain #3 Square @ (16, 11) cleared--- nNeeded,nFlags: 3,3
+---Chain #3 Square @ (16, 10) cleared--- nNeeded,nFlags: 2,2
+---Chain #3 Square @ (16, 9) cleared--- nNeeded,nFlags: 1,1
+---Chain #3 Square @ (16, 8) outdated/not solved---
+---Chain #3 Square @ (15, 8) cleared--- nNeeded,nFlags: 1,1
+---Chain #3 Square @ (14, 8) cleared--- nNeeded,nFlags: 2,2
+---Chain #3 Square @ (16, 8) outdated/not solved---
+Killed chain #3
+Chain #3 called for self-destruct
+revealedField:
+......12F11?1.....1?
+......1F323?4321..1?
+......112F2?FFF1..11
+...111..1122332211..
+...1F1.........1?211
+..123221111211.2????
+..1F2??????2F112????
+..1122F4FF22222F3???
+.....12F321.1F2121??
+.111..1221.1221.11??
+.1?1...1F1.1F1..2F??
+12?1111111.111.13F??
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000000
+00000012211111000000
+00000001111111000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000001110000000000
+00000001110000000000
+00000001110000000000
+00000001110000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()()()()
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()()()()
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 12
+isOverLimit: false
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....1?
+......1F323?4321..1?
+......112F2?FFF1..11
+...111..1122332211..
+...1F1.........1?211
+..123221111211.2????
+..1F2??????2F112????
+..1122F4FF22222F3???
+.....12F321.1F2121??
+.111..1221.1221.11??
+.1?1...1F1.1F1..2F??
+12?1111111.111.13F??
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000000111
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000001110000000000
+00000001110000000000
+00000001110000000000
+00000001110000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 13
+isOverLimit: false
+Evaluating chain#13...
+---Chain #13 Square @ (18, 2) cleared--- nNeeded,nFlags: 1,1
+---Chain #13 Square @ (18, 1) cleared--- nNeeded,nFlags: 1,1
+---Chain #13 Square @ (18, 0) cleared--- nNeeded,nFlags: 1,1
+---Chain #13 Square @ (19, 2) cleared--- nNeeded,nFlags: 1,1
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F323?4321..1F
+......112F2?FFF1..11
+...111..1122332211..
+...1F1.........1?211
+..123221111211.2????
+..1F2??????2F112????
+..1122F4FF22222F3???
+.....12F321.1F2121??
+.111..1221.1221.11??
+.1?1...1F1.1F1..2F??
+12?1111111.111.13F??
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012222211000111
+00000012222211000111
+00000001122222000111
+00000000011111000111
+00000000011111000000
+00000000000000000000
+00000000000000000000
+00000001110000000000
+00000001110000000000
+00000001110000000000
+00000001110000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,14,)(10,14,)(12,14,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,14,)(10,14,)(12,14,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,14,)(10,14,)(12,14,)(12,14,)(12,14,)()()()(13,)(13,)(13,)
+()()()()()()()()()(14,)(14,)(14,)(14,)(14,)()()()(13,)(13,)(13,)
+()()()()()()()()()(14,)(14,)(14,)(14,)(14,)()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 14
+isOverLimit: false
+Evaluating chain#14...
+---Chain #14 Square @ (11, 3) cleared--- nNeeded,nFlags: 2,2
+---Chain #14 Square @ (10, 3) cleared--- nNeeded,nFlags: 2,2
+---Chain #14 Square @ (10, 2) cleared--- nNeeded,nFlags: 2,2
+---Chain #14 Square @ (10, 1) outdated/not solved---
+---Chain #14 Square @ (10, 0) outdated/not solved---
+---Chain #14 Square @ (12, 3) cleared--- nNeeded,nFlags: 3,3
+---Chain #14 Square @ (10, 1) outdated/not solved---
+---Chain #14 Square @ (10, 0) outdated/not solved---
+---Chain #14 Square @ (10, 1) outdated/not solved---
+---Chain #14 Square @ (10, 0) outdated/not solved---
+Killed chain #14
+Chain #14 called for self-destruct
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1?211
+..123221111211.2????
+..1F2??????2F112????
+..1122F4FF22222F3???
+.....12F321.1F2121??
+.111..1221.1221.11??
+.1?1...1F1.1F1..2F??
+12?1111111.111.13F??
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111111221
+00000000000000111222
+00000000000000111111
+00000000000000111111
+00000000000000111000
+00000001110000111000
+00000001110000000000
+00000001110000000000
+00000001110000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)(15,)(15,)(15,)(13,15,)(13,15,)(13,)
+()()()()()()()()()()()()()()(15,)(15,)(15,)(13,15,)(13,15,)(13,15,)
+()()()()()()()()()()()()()()(15,)(15,)(15,)(15,)(15,)(15,)
+()()()()()()()()()()()()()()(15,)(15,)(15,)(15,)(15,)(15,)
+()()()()()()()()()()()()()()(15,)(15,)(15,)()()()
+()()()()()()()(6,)(6,)(6,)()()()()(15,)(15,)(15,)()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 15
+isOverLimit: false
+Evaluating chain#15...
+---Chain #15 Square @ (15, 6) outdated/not solved---
+---Chain #15 Square @ (15, 5) outdated/not solved---
+---Chain #15 Square @ (15, 4) outdated/not solved---
+---Chain #15 Square @ (16, 3) cleared--- nNeeded,nFlags: 1,1
+---Chain #15 Square @ (17, 3) cleared--- nNeeded,nFlags: 1,1
+---Chain #15 Square @ (17, 4) outdated/not solved---
+---Chain #15 Square @ (18, 4) outdated/not solved---
+---Chain #15 Square @ (19, 4) outdated/not solved---
+---Chain #15 Square @ (15, 6) outdated/not solved---
+---Chain #15 Square @ (15, 5) outdated/not solved---
+---Chain #15 Square @ (15, 4) cleared--- nNeeded,nFlags: 1,1
+---Chain #15 Square @ (15, 3) cleared--- nNeeded,nFlags: 2,2
+---Chain #15 Square @ (17, 4) outdated/not solved---
+---Chain #15 Square @ (18, 4) outdated/not solved---
+---Chain #15 Square @ (19, 4) outdated/not solved---
+---Chain #15 Square @ (15, 6) outdated/not solved---
+---Chain #15 Square @ (15, 5) outdated/not solved---
+---Chain #15 Square @ (17, 4) outdated/not solved---
+---Chain #15 Square @ (18, 4) outdated/not solved---
+---Chain #15 Square @ (19, 4) outdated/not solved---
+Killed chain #15
+Chain #15 called for self-destruct
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.22???
+..1F2??????2F112????
+..1122F4FF22222F3???
+.....12F321.1F2121??
+.111..1221.1221.11??
+.1?1...1F1.1F1..2F??
+12?1111111.111.13F??
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000000000000001111
+00000000000000001111
+00000000000000000000
+00000001110000000000
+00000001110000000000
+00000001110000000000
+00000001110000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()()()()()()()()()()()()(16,)(16,)(16,)(16,)
+()()()()()()()()()()()()()()()()(16,)(16,)(16,)(16,)
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 16
+isOverLimit: false
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.22???
+..1F2??????2F112????
+..1122F4FF22222F3???
+.....12F321.1F2121??
+.111..1221.1221.11??
+.1?1...1F1.1F1..2F??
+12?1111111.111.13F??
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00011111111110001111
+00011111111110001111
+00011111111110000000
+00011111121110000000
+00011111121110000000
+00000001110000000000
+00000001110000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()(17,)(17,)(17,)(17,)(17,)(17,)(17,)(17,)(17,)(17,)()()()(16,)(16,)(16,)(16,)
+()()()(17,)(17,)(17,)(17,)(17,)(17,)(17,)(17,)(17,)(17,)()()()(16,)(16,)(16,)(16,)
+()()()(17,)(17,)(17,)(17,)(17,)(17,)(17,)(17,)(17,)(17,)()()()()()()()
+()()()(17,)(17,)(17,)(17,)(6,)(6,)(6,17,)(17,)(17,)(17,)()()()()()()()
+()()()(17,)(17,)(17,)(17,)(6,)(6,)(6,17,)(17,)(17,)(17,)()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 17
+isOverLimit: false
+Evaluating chain#17...
+---Chain #17 Square @ (5, 7) outdated/not solved---
+---Chain #17 Square @ (4, 6) cleared--- nNeeded,nFlags: 2,2
+---Chain #17 Square @ (4, 5) cleared--- nNeeded,nFlags: 3,3
+---Chain #17 Square @ (5, 5) cleared--- nNeeded,nFlags: 2,2
+---Chain #17 Square @ (6, 5) outdated/not solved---
+---Chain #17 Square @ (7, 5) outdated/not solved---
+---Chain #17 Square @ (8, 5) outdated/not solved---
+---Chain #17 Square @ (9, 5) outdated/not solved---
+---Chain #17 Square @ (10, 5) outdated/not solved---
+---Chain #17 Square @ (11, 6) cleared--- nNeeded,nFlags: 2,2
+---Chain #17 Square @ (11, 7) cleared--- nNeeded,nFlags: 2,2
+---Chain #17 Square @ (10, 7) cleared--- nNeeded,nFlags: 2,2
+---Chain #17 Square @ (5, 7) cleared--- nNeeded,nFlags: 2,2
+---Chain #17 Square @ (4, 7) cleared--- nNeeded,nFlags: 2,2
+---Chain #17 Square @ (6, 5) outdated/not solved---
+---Chain #17 Square @ (7, 5) outdated/not solved---
+---Chain #17 Square @ (8, 5) outdated/not solved---
+---Chain #17 Square @ (9, 5) cleared--- nNeeded,nFlags: 1,1
+---Chain #17 Square @ (10, 5) cleared--- nNeeded,nFlags: 1,1
+---Chain #17 Square @ (11, 5) cleared--- nNeeded,nFlags: 2,2
+---Chain #17 Square @ (6, 5) outdated/not solved---
+---Chain #17 Square @ (7, 5) outdated/not solved---
+---Chain #17 Square @ (8, 5) outdated/not solved---
+Killed chain #17
+Chain #17 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.22???
+..1F2F3?33F2F112????
+..1122F4FF22222F3???
+.....12F321.1F2121??
+.111..1221.1221.11??
+.1?1...1F1.1F1..2F??
+12?1111111.111.13F??
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000001111
+00000111110000001111
+00000111110000000000
+00000112220000000000
+00000001110000000000
+00000001110000000000
+00000001110000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()()()(16,)(16,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()()()(16,)(16,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()()()()()()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 18
+isOverLimit: false
+Evaluating chain#18...
+---Chain #18 Square @ (6, 5) cleared--- nNeeded,nFlags: 2,2
+---Chain #18 Square @ (7, 5) cleared--- nNeeded,nFlags: 1,1
+---Chain #18 Square @ (8, 5) cleared--- nNeeded,nFlags: 1,1
+---Chain #18 Square @ (8, 6) cleared--- nNeeded,nFlags: 3,3
+---Chain #18 Square @ (6, 6) cleared--- nNeeded,nFlags: 3,3
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.22???
+..1F2F3F33F2F112????
+..1122F4FF22222F3???
+.....12F321.1F2121??
+.111..1221.1221.11??
+.1?1...1F1.1F1..2F??
+12?1111111.111.13F??
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000111100
+00000112220000111000
+00000001110000000000
+00000001110000000000
+00000001110000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(19,)(19,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,)(19,)()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()(6,)(6,)(6,)()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 19
+isOverLimit: false
+Evaluating chain#19...
+---Chain #19 Square @ (15, 5) cleared--- nNeeded,nFlags: 2,2
+---Chain #19 Square @ (16, 5) cleared--- nNeeded,nFlags: 2,2
+---Chain #19 Square @ (15, 6) cleared--- nNeeded,nFlags: 2,2
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3???
+.....12F321.1F2121??
+.111..1221.1221.11??
+.1?1...1F1.1F1..2F??
+12?1111111.111.13F??
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 20
+isOverLimit: false
+Evaluating chain#20...
+---Chain #20 Square @ (17, 9) cleared--- nNeeded,nFlags: 1,1
+---Chain #20 Square @ (17, 8) outdated/not solved---
+---Chain #20 Square @ (16, 7) cleared--- nNeeded,nFlags: 3,3
+---Chain #20 Square @ (17, 8) cleared--- nNeeded,nFlags: 1,1
+---Chain #20 Square @ (16, 8) cleared--- nNeeded,nFlags: 2,2
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1?1...1F1.1F1..2F3?
+12?1111111.111.13F??
+??????211111..12F321
+??????2F11F1..1F21..
+???????2222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+11111001110000011110
+11111001110000011110
+11111112110000001110
+11111111000000000000
+11111111000000000000
+00000111000000000000
+00000111000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+(21,)(21,)(21,)(21,)(21,)()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+(21,)(21,)(21,)(21,)(21,)()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+(21,)(21,)(21,)(21,)(21,)(21,)(21,)(6,21,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(21,)(21,)(21,)(21,)(21,)(21,)(21,)(21,)()()()()()()()()()()()()
+(21,)(21,)(21,)(21,)(21,)(21,)(21,)(21,)()()()()()()()()()()()()
+()()()()()(21,)(21,)(21,)()()()()()()()()()()()()
+()()()()()(21,)(21,)(21,)()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 21
+isOverLimit: false
+Evaluating chain#21...
+---Chain #21 Square @ (0, 11) outdated/not solved---
+---Chain #21 Square @ (1, 11) outdated/not solved---
+---Chain #21 Square @ (1, 10) outdated/not solved---
+---Chain #21 Square @ (2, 9) cleared--- nNeeded,nFlags: 1,1
+---Chain #21 Square @ (3, 9) cleared--- nNeeded,nFlags: 1,1
+---Chain #21 Square @ (3, 10) cleared--- nNeeded,nFlags: 1,1
+---Chain #21 Square @ (3, 11) cleared--- nNeeded,nFlags: 1,1
+---Chain #21 Square @ (4, 11) outdated/not solved---
+---Chain #21 Square @ (5, 11) outdated/not solved---
+---Chain #21 Square @ (6, 12) cleared--- nNeeded,nFlags: 2,2
+---Chain #21 Square @ (6, 13) cleared--- nNeeded,nFlags: 2,2
+---Chain #21 Square @ (0, 11) outdated/not solved---
+---Chain #21 Square @ (1, 11) outdated/not solved---
+---Chain #21 Square @ (1, 10) cleared--- nNeeded,nFlags: 1,1
+---Chain #21 Square @ (1, 9) cleared--- nNeeded,nFlags: 1,1
+---Chain #21 Square @ (4, 11) cleared--- nNeeded,nFlags: 1,1
+---Chain #21 Square @ (5, 11) cleared--- nNeeded,nFlags: 1,1
+---Chain #21 Square @ (6, 11) cleared--- nNeeded,nFlags: 1,1
+---Chain #21 Square @ (0, 11) outdated/not solved---
+---Chain #21 Square @ (1, 11) outdated/not solved---
+Killed chain #21
+Chain #21 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13F??
+??1.1F211111..12F321
+??21112F11F1..1F21..
+?????122222221211.11
+??????????????2...1?
+??????????????31..1?
+???????????????1..1?
+???????????????2..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+11110001110000001110
+11110000000000000000
+11111110000000000000
+01111111111111110000
+01111111111111110000
+00001111111111111000
+00000000000001111000
+00000000000001111000
+00000000000000111000
+00000000000000111000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+(22,)(22,)(22,)(22,)()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(22,)(22,)(22,)(22,)()()()()()()()()()()()()()()()()
+(22,)(22,)(22,)(22,)(22,)(22,)(22,)()()()()()()()()()()()()()
+()(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)()()()()
+()(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)()()()()
+()()()()(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)(22,)()()()
+()()()()()()()()()()()()()(22,)(22,)(22,)(22,)()()()
+()()()()()()()()()()()()()(22,)(22,)(22,)(22,)()()()
+()()()()()()()()()()()()()()(22,)(22,)(22,)()()()
+()()()()()()()()()()()()()()(22,)(22,)(22,)()()()
+max eval label: 22
+isOverLimit: false
+Evaluating chain#22...
+---Chain #22 Square @ (15, 19) outdated/not solved---
+---Chain #22 Square @ (15, 18) outdated/not solved---
+---Chain #22 Square @ (15, 17) outdated/not solved---
+---Chain #22 Square @ (14, 16) outdated/not solved---
+---Chain #22 Square @ (14, 14) cleared--- nNeeded,nFlags: 2,2
+---Chain #22 Square @ (13, 14) cleared--- nNeeded,nFlags: 1,1
+---Chain #22 Square @ (12, 14) outdated/not solved---
+---Chain #22 Square @ (11, 14) outdated/not solved---
+---Chain #22 Square @ (10, 14) outdated/not solved---
+---Chain #22 Square @ (9, 14) outdated/not solved---
+---Chain #22 Square @ (8, 14) outdated/not solved---
+---Chain #22 Square @ (7, 14) outdated/not solved---
+---Chain #22 Square @ (6, 14) outdated/not solved---
+---Chain #22 Square @ (5, 14) outdated/not solved---
+---Chain #22 Square @ (5, 13) cleared--- nNeeded,nFlags: 1,1
+---Chain #22 Square @ (4, 13) cleared--- nNeeded,nFlags: 1,1
+---Chain #22 Square @ (3, 13) outdated/not solved---
+---Chain #22 Square @ (2, 13) outdated/not solved---
+---Chain #22 Square @ (2, 12) outdated/not solved---
+---Chain #22 Square @ (1, 11) cleared--- nNeeded,nFlags: 2,2
+---Chain #22 Square @ (0, 11) cleared--- nNeeded,nFlags: 1,1
+---Chain #22 Square @ (15, 19) outdated/not solved---
+---Chain #22 Square @ (15, 18) outdated/not solved---
+---Chain #22 Square @ (15, 17) cleared--- nNeeded,nFlags: 1,1
+---Chain #22 Square @ (15, 16) cleared--- nNeeded,nFlags: 1,1
+---Chain #22 Square @ (14, 16) cleared--- nNeeded,nFlags: 3,3
+---Chain #22 Square @ (14, 15) cleared--- nNeeded,nFlags: 2,2
+---Chain #22 Square @ (12, 14) outdated/not solved---
+---Chain #22 Square @ (11, 14) outdated/not solved---
+---Chain #22 Square @ (10, 14) outdated/not solved---
+---Chain #22 Square @ (9, 14) outdated/not solved---
+---Chain #22 Square @ (8, 14) outdated/not solved---
+---Chain #22 Square @ (7, 14) outdated/not solved---
+---Chain #22 Square @ (6, 14) outdated/not solved---
+---Chain #22 Square @ (5, 14) outdated/not solved---
+---Chain #22 Square @ (3, 13) outdated/not solved---
+---Chain #22 Square @ (2, 13) outdated/not solved---
+---Chain #22 Square @ (2, 12) cleared--- nNeeded,nFlags: 1,1
+---Chain #22 Square @ (2, 11) cleared--- nNeeded,nFlags: 2,2
+---Chain #22 Square @ (15, 19) outdated/not solved---
+---Chain #22 Square @ (15, 18) outdated/not solved---
+---Chain #22 Square @ (12, 14) outdated/not solved---
+---Chain #22 Square @ (11, 14) outdated/not solved---
+---Chain #22 Square @ (10, 14) outdated/not solved---
+---Chain #22 Square @ (9, 14) outdated/not solved---
+---Chain #22 Square @ (8, 14) outdated/not solved---
+---Chain #22 Square @ (7, 14) outdated/not solved---
+---Chain #22 Square @ (6, 14) outdated/not solved---
+---Chain #22 Square @ (5, 14) outdated/not solved---
+---Chain #22 Square @ (3, 13) outdated/not solved---
+---Chain #22 Square @ (2, 13) outdated/not solved---
+Killed chain #22
+Chain #22 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13F??
+1F1.1F211111..12F321
+?221112F11F1..1F21..
+???21122222221211.11
+????????????3F2...1?
+?????????????F31..1?
+?????????????3F1..1?
+??????????????22..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000000000
+11000000000000000000
+11000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()()()()()
+(23,)(23,)()()()()()()()()()()()()()()()()()()
+(23,)(23,)()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 23
+isOverLimit: false
+Evaluating chain#23...
+---Chain #23 Square @ (0, 12) cleared--- nNeeded,nFlags: 1,1
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13F??
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+???21122222221211.11
+????????????3F2...1?
+?????????????F31..1?
+?????????????3F1..1?
+??????????????22..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11000000000000001111
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 24
+isOverLimit: false
+Evaluating chain#24...
+---Chain #24 Square @ (19, 12) outdated/not solved---
+---Chain #24 Square @ (18, 12) outdated/not solved---
+---Chain #24 Square @ (19, 12) cleared--- nNeeded,nFlags: 1,1
+---Chain #24 Square @ (18, 12) cleared--- nNeeded,nFlags: 2,2
+---Chain #24 Square @ (17, 12) cleared--- nNeeded,nFlags: 3,3
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+???21122222221211.11
+????????????3F2...1?
+?????????????F31..1?
+?????????????3F1..1?
+??????????????22..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+22111000000000001111
+22111111111111001111
+11111111111111000000
+00111111111111000000
+00000000000111000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,25,)(23,25,)(25,)(25,)(25,)()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,25,)(23,25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)()()(24,)(24,)(24,)(24,)
+(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)()()()()()()
+()()(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)(25,)()()()()()()
+()()()()()()()()()()()(25,)(25,)(25,)()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 25
+isOverLimit: false
+Evaluating chain#25...
+---Chain #25 Square @ (12, 15) outdated/not solved---
+---Chain #25 Square @ (11, 14) cleared--- nNeeded,nFlags: 2,2
+---Chain #25 Square @ (10, 14) cleared--- nNeeded,nFlags: 2,2
+---Chain #25 Square @ (9, 14) outdated/not solved---
+---Chain #25 Square @ (8, 14) outdated/not solved---
+---Chain #25 Square @ (7, 14) outdated/not solved---
+---Chain #25 Square @ (6, 14) outdated/not solved---
+---Chain #25 Square @ (5, 14) outdated/not solved---
+---Chain #25 Square @ (4, 14) outdated/not solved---
+---Chain #25 Square @ (3, 14) outdated/not solved---
+---Chain #25 Square @ (2, 13) cleared--- nNeeded,nFlags: 2,2
+---Chain #25 Square @ (1, 13) cleared--- nNeeded,nFlags: 2,2
+---Chain #25 Square @ (0, 13) cleared--- nNeeded,nFlags: 1,1
+---Chain #25 Square @ (12, 15) cleared--- nNeeded,nFlags: 3,3
+---Chain #25 Square @ (12, 14) cleared--- nNeeded,nFlags: 2,2
+---Chain #25 Square @ (9, 14) outdated/not solved---
+---Chain #25 Square @ (8, 14) outdated/not solved---
+---Chain #25 Square @ (7, 14) outdated/not solved---
+---Chain #25 Square @ (6, 14) outdated/not solved---
+---Chain #25 Square @ (5, 14) outdated/not solved---
+---Chain #25 Square @ (4, 14) outdated/not solved---
+---Chain #25 Square @ (3, 14) outdated/not solved---
+---Chain #25 Square @ (3, 13) cleared--- nNeeded,nFlags: 1,1
+---Chain #25 Square @ (9, 14) outdated/not solved---
+---Chain #25 Square @ (8, 14) outdated/not solved---
+---Chain #25 Square @ (7, 14) outdated/not solved---
+---Chain #25 Square @ (6, 14) outdated/not solved---
+---Chain #25 Square @ (5, 14) outdated/not solved---
+---Chain #25 Square @ (4, 14) outdated/not solved---
+---Chain #25 Square @ (3, 14) outdated/not solved---
+Killed chain #25
+Chain #25 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2???????11F3F2...1?
+.1?????????13F31..1?
+11???????????3F1..1?
+??????????????22..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+22100000000000001111
+11100000000000000000
+11100000000000000000
+11100000000000000000
+11100000000000000000
+11100000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,26,)(23,26,)(26,)()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(26,)(26,)(26,)()()()()()()()()()()()()()()()()()
+(26,)(26,)(26,)()()()()()()()()()()()()()()()()()
+(26,)(26,)(26,)()()()()()()()()()()()()()()()()()
+(26,)(26,)(26,)()()()()()()()()()()()()()()()()()
+(26,)(26,)(26,)()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 26
+isOverLimit: false
+Evaluating chain#26...
+---Chain #26 Square @ (0, 17) outdated/not solved---
+---Chain #26 Square @ (1, 17) outdated/not solved---
+---Chain #26 Square @ (1, 16) outdated/not solved---
+---Chain #26 Square @ (1, 15) outdated/not solved---
+---Chain #26 Square @ (0, 17) outdated/not solved---
+---Chain #26 Square @ (1, 17) outdated/not solved---
+---Chain #26 Square @ (1, 16) cleared--- nNeeded,nFlags: 1,1
+---Chain #26 Square @ (1, 15) cleared--- nNeeded,nFlags: 2,2
+---Chain #26 Square @ (1, 14) cleared--- nNeeded,nFlags: 2,2
+---Chain #26 Square @ (0, 17) outdated/not solved---
+---Chain #26 Square @ (1, 17) outdated/not solved---
+Killed chain #26
+Chain #26 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F??????11F3F2...1?
+.12????????13F31..1?
+111??????????3F1..1?
+??????????????22..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11111111111000001111
+00111111111100000000
+00111111111100000000
+00000000111100000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)(27,)(27,)(27,)(27,)(27,)(27,)(27,)(27,)(27,)()()()()()(24,)(24,)(24,)(24,)
+()()(27,)(27,)(27,)(27,)(27,)(27,)(27,)(27,)(27,)(27,)()()()()()()()()
+()()(27,)(27,)(27,)(27,)(27,)(27,)(27,)(27,)(27,)(27,)()()()()()()()()
+()()()()()()()()(27,)(27,)(27,)(27,)()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 27
+isOverLimit: false
+Evaluating chain#27...
+---Chain #27 Square @ (10, 15) cleared--- nNeeded,nFlags: 1,1
+---Chain #27 Square @ (9, 15) outdated/not solved---
+---Chain #27 Square @ (8, 14) cleared--- nNeeded,nFlags: 2,2
+---Chain #27 Square @ (7, 14) cleared--- nNeeded,nFlags: 2,2
+---Chain #27 Square @ (6, 14) outdated/not solved---
+---Chain #27 Square @ (5, 14) outdated/not solved---
+---Chain #27 Square @ (4, 14) outdated/not solved---
+---Chain #27 Square @ (3, 14) cleared--- nNeeded,nFlags: 2,2
+---Chain #27 Square @ (9, 15) cleared--- nNeeded,nFlags: 1,1
+---Chain #27 Square @ (9, 14) cleared--- nNeeded,nFlags: 2,2
+---Chain #27 Square @ (6, 14) outdated/not solved---
+---Chain #27 Square @ (5, 14) outdated/not solved---
+---Chain #27 Square @ (4, 14) outdated/not solved---
+---Chain #27 Square @ (6, 14) outdated/not solved---
+---Chain #27 Square @ (5, 14) outdated/not solved---
+---Chain #27 Square @ (4, 14) outdated/not solved---
+Killed chain #27
+Chain #27 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22?21F11F3F2...1?
+.12?????11113F31..1?
+111??????????3F1..1?
+??????????????22..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11011111000000001111
+00111111100000000000
+00111111100000000000
+00111111100000000000
+00000000000000000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()(28,)(28,)(28,)(28,)(28,)()()()()()()()()(24,)(24,)(24,)(24,)
+()()(28,)(28,)(28,)(28,)(28,)(28,)(28,)()()()()()()()()()()()
+()()(28,)(28,)(28,)(28,)(28,)(28,)(28,)()()()()()()()()()()()
+()()(28,)(28,)(28,)(28,)(28,)(28,)(28,)()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 28
+isOverLimit: false
+Evaluating chain#28...
+---Chain #28 Square @ (3, 15) cleared--- nNeeded,nFlags: 2,2
+---Chain #28 Square @ (4, 15) outdated/not solved---
+---Chain #28 Square @ (5, 14) cleared--- nNeeded,nFlags: 1,1
+---Chain #28 Square @ (6, 14) cleared--- nNeeded,nFlags: 2,2
+---Chain #28 Square @ (6, 15) outdated/not solved---
+---Chain #28 Square @ (7, 15) cleared--- nNeeded,nFlags: 1,1
+---Chain #28 Square @ (4, 15) outdated/not solved---
+---Chain #28 Square @ (4, 14) cleared--- nNeeded,nFlags: 1,1
+---Chain #28 Square @ (6, 15) outdated/not solved---
+---Chain #28 Square @ (4, 15) outdated/not solved---
+---Chain #28 Square @ (6, 15) outdated/not solved---
+Killed chain #28
+Chain #28 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22F21F11F3F2...1?
+.1223?3211113F31..1?
+111??????????3F1..1?
+??????????????22..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11000000000000001222
+00000000000000000111
+00000000000000000111
+00000000000000000111
+00000000000000000111
+00000000000000000111
+00000000000000000111
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,29,)(24,29,)(24,29,)
+()()()()()()()()()()()()()()()()()(29,)(29,)(29,)
+()()()()()()()()()()()()()()()()()(29,)(29,)(29,)
+()()()()()()()()()()()()()()()()()(29,)(29,)(29,)
+()()()()()()()()()()()()()()()()()(29,)(29,)(29,)
+()()()()()()()()()()()()()()()()()(29,)(29,)(29,)
+()()()()()()()()()()()()()()()()()(29,)(29,)(29,)
+max eval label: 29
+isOverLimit: false
+Evaluating chain#29...
+---Chain #29 Square @ (18, 19) outdated/not solved---
+---Chain #29 Square @ (18, 18) outdated/not solved---
+---Chain #29 Square @ (18, 17) outdated/not solved---
+---Chain #29 Square @ (18, 16) outdated/not solved---
+---Chain #29 Square @ (18, 15) outdated/not solved---
+---Chain #29 Square @ (19, 14) cleared--- nNeeded,nFlags: 1,1
+---Chain #29 Square @ (18, 19) outdated/not solved---
+---Chain #29 Square @ (18, 18) outdated/not solved---
+---Chain #29 Square @ (18, 17) outdated/not solved---
+---Chain #29 Square @ (18, 16) cleared--- nNeeded,nFlags: 1,1
+---Chain #29 Square @ (18, 15) cleared--- nNeeded,nFlags: 1,1
+---Chain #29 Square @ (18, 14) cleared--- nNeeded,nFlags: 1,1
+---Chain #29 Square @ (18, 19) outdated/not solved---
+---Chain #29 Square @ (18, 18) outdated/not solved---
+---Chain #29 Square @ (18, 17) outdated/not solved---
+Killed chain #29
+Chain #29 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22F21F11F3F2...1F
+.1223?3211113F31..11
+111??????????3F1..11
+??????????????22..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11000000000000001111
+00011100000000000000
+01111100000000000000
+11111100000000000000
+11111100000000000000
+11110000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+()()()(30,)(30,)(30,)()()()()()()()()()()()()()()
+()(30,)(30,)(30,)(30,)(30,)()()()()()()()()()()()()()()
+(30,)(30,)(30,)(30,)(30,)(30,)()()()()()()()()()()()()()()
+(30,)(30,)(30,)(30,)(30,)(30,)()()()()()()()()()()()()()()
+(30,)(30,)(30,)(30,)()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 30
+isOverLimit: false
+Evaluating chain#30...
+---Chain #30 Square @ (0, 17) outdated/not solved---
+---Chain #30 Square @ (1, 17) outdated/not solved---
+---Chain #30 Square @ (2, 17) outdated/not solved---
+---Chain #30 Square @ (3, 16) cleared--- nNeeded,nFlags: 2,2
+---Chain #30 Square @ (4, 16) outdated/not solved---
+---Chain #30 Square @ (0, 17) outdated/not solved---
+---Chain #30 Square @ (1, 17) outdated/not solved---
+---Chain #30 Square @ (2, 17) cleared--- nNeeded,nFlags: 1,1
+---Chain #30 Square @ (2, 16) cleared--- nNeeded,nFlags: 2,2
+---Chain #30 Square @ (4, 16) cleared--- nNeeded,nFlags: 3,3
+---Chain #30 Square @ (4, 15) cleared--- nNeeded,nFlags: 2,2
+---Chain #30 Square @ (0, 17) outdated/not solved---
+---Chain #30 Square @ (1, 17) outdated/not solved---
+Killed chain #30
+Chain #30 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22F21F11F3F2...1F
+.1223F3211113F31..11
+111F22???????3F1..11
+?122??????????22..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11000000000000001111
+00000000000000000000
+00000111111111000000
+00000111111111000000
+00000111111111000000
+00000000000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+()()()()()()()()()()()()()()()()()()()()
+()()()()()(31,)(31,)(31,)(31,)(31,)(31,)(31,)(31,)(31,)()()()()()()
+()()()()()(31,)(31,)(31,)(31,)(31,)(31,)(31,)(31,)(31,)()()()()()()
+()()()()()(31,)(31,)(31,)(31,)(31,)(31,)(31,)(31,)(31,)()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 31
+isOverLimit: false
+Evaluating chain#31...
+---Chain #31 Square @ (12, 16) cleared--- nNeeded,nFlags: 3,3
+---Chain #31 Square @ (11, 16) cleared--- nNeeded,nFlags: 1,1
+---Chain #31 Square @ (10, 16) cleared--- nNeeded,nFlags: 1,1
+---Chain #31 Square @ (9, 16) cleared--- nNeeded,nFlags: 1,1
+---Chain #31 Square @ (8, 16) cleared--- nNeeded,nFlags: 1,1
+---Chain #31 Square @ (7, 16) outdated/not solved---
+---Chain #31 Square @ (6, 16) outdated/not solved---
+---Chain #31 Square @ (7, 16) outdated/not solved---
+---Chain #31 Square @ (6, 16) outdated/not solved---
+Killed chain #31
+Chain #31 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22F21F11F3F2...1F
+.1223F3211113F31..11
+111F22?1.11223F1..11
+?122???211????22..1?
+???????????????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11000000000000001111
+00000000000000000000
+00000111100000000000
+00000111111111100000
+00000111111111100000
+00000011111111100000
+00000011111000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+()()()()()()()()()()()()()()()()()()()()
+()()()()()(32,)(32,)(32,)(32,)()()()()()()()()()()()
+()()()()()(32,)(32,)(32,)(32,)(32,)(32,)(32,)(32,)(32,)(32,)()()()()()
+()()()()()(32,)(32,)(32,)(32,)(32,)(32,)(32,)(32,)(32,)(32,)()()()()()
+()()()()()()(32,)(32,)(32,)(32,)(32,)(32,)(32,)(32,)(32,)()()()()()
+()()()()()()(32,)(32,)(32,)(32,)(32,)()()()()()()()()()
+max eval label: 32
+isOverLimit: false
+Evaluating chain#32...
+---Chain #32 Square @ (13, 17) outdated/not solved---
+---Chain #32 Square @ (12, 17) outdated/not solved---
+---Chain #32 Square @ (11, 17) outdated/not solved---
+---Chain #32 Square @ (10, 17) outdated/not solved---
+---Chain #32 Square @ (9, 18) cleared--- nNeeded,nFlags: 1,1
+---Chain #32 Square @ (8, 18) outdated/not solved---
+---Chain #32 Square @ (7, 18) outdated/not solved---
+---Chain #32 Square @ (7, 17) outdated/not solved---
+---Chain #32 Square @ (6, 16) cleared--- nNeeded,nFlags: 3,3
+---Chain #32 Square @ (13, 17) outdated/not solved---
+---Chain #32 Square @ (12, 17) outdated/not solved---
+---Chain #32 Square @ (11, 17) outdated/not solved---
+---Chain #32 Square @ (10, 17) cleared--- nNeeded,nFlags: 1,1
+---Chain #32 Square @ (9, 17) cleared--- nNeeded,nFlags: 1,1
+---Chain #32 Square @ (8, 18) outdated/not solved---
+---Chain #32 Square @ (7, 18) outdated/not solved---
+---Chain #32 Square @ (7, 17) cleared--- nNeeded,nFlags: 1,1
+---Chain #32 Square @ (7, 16) cleared--- nNeeded,nFlags: 2,2
+---Chain #32 Square @ (13, 17) outdated/not solved---
+---Chain #32 Square @ (12, 17) outdated/not solved---
+---Chain #32 Square @ (11, 17) outdated/not solved---
+---Chain #32 Square @ (8, 18) outdated/not solved---
+---Chain #32 Square @ (7, 18) outdated/not solved---
+Killed chain #32
+Chain #32 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22F21F11F3F2...1F
+.1223F3211113F31..11
+111F22F1.11223F1..11
+?122??2211F2??22..1?
+????????111????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11000000000000001111
+00000000000000000000
+00000000000000000000
+11100000000000000000
+11111000000000000000
+11111000000000000000
+11111000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+(33,)(33,)(33,)()()()()()()()()()()()()()()()()()
+(33,)(33,)(33,)(33,)(33,)()()()()()()()()()()()()()()()
+(33,)(33,)(33,)(33,)(33,)()()()()()()()()()()()()()()()
+(33,)(33,)(33,)(33,)(33,)()()()()()()()()()()()()()()()
+max eval label: 33
+isOverLimit: false
+Evaluating chain#33...
+---Chain #33 Square @ (3, 18) outdated/not solved---
+---Chain #33 Square @ (2, 18) outdated/not solved---
+---Chain #33 Square @ (1, 18) outdated/not solved---
+---Chain #33 Square @ (0, 17) cleared--- nNeeded,nFlags: 1,1
+---Chain #33 Square @ (3, 18) outdated/not solved---
+---Chain #33 Square @ (2, 18) outdated/not solved---
+---Chain #33 Square @ (1, 18) cleared--- nNeeded,nFlags: 1,1
+---Chain #33 Square @ (1, 17) cleared--- nNeeded,nFlags: 1,1
+---Chain #33 Square @ (3, 18) outdated/not solved---
+---Chain #33 Square @ (2, 18) outdated/not solved---
+Killed chain #33
+Chain #33 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22F21F11F3F2...1F
+.1223F3211113F31..11
+111F22F1.11223F1..11
+F122??2211F2??22..1?
+111?????111????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11000000000000001111
+00000000000000000000
+00000000000000000000
+00011110000000000000
+00011110000000000000
+00011110000000000000
+00000000000000000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()(34,)(34,)(34,)(34,)()()()()()()()()()()()()()
+()()()(34,)(34,)(34,)(34,)()()()()()()()()()()()()()
+()()()(34,)(34,)(34,)(34,)()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+max eval label: 34
+isOverLimit: false
+Evaluating chain#34...
+---Chain #34 Square @ (5, 17) cleared--- nNeeded,nFlags: 2,2
+---Chain #34 Square @ (4, 17) cleared--- nNeeded,nFlags: 2,2
+Chain #34 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22F21F11F3F2...1F
+.1223F3211113F31..11
+111F22F1.11223F1..11
+F122212211F2??22..1?
+111?????111????1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11000000000000001111
+00000000000000000000
+00000000000000000000
+00011110001111100000
+00011110001111100000
+00011110001111100000
+00000000001110000000
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()(34,)(34,)(34,)(34,)()()()(35,)(35,)(35,)(35,)(35,)()()()()()
+()()()(34,)(34,)(34,)(34,)()()()(35,)(35,)(35,)(35,)(35,)()()()()()
+()()()(34,)(34,)(34,)(34,)()()()(35,)(35,)(35,)(35,)(35,)()()()()()
+()()()()()()()()()()(35,)(35,)(35,)()()()()()()()
+max eval label: 35
+isOverLimit: false
+Evaluating chain#35...
+---Chain #35 Square @ (11, 18) outdated/not solved---
+---Chain #35 Square @ (12, 17) cleared--- nNeeded,nFlags: 2,2
+---Chain #35 Square @ (13, 17) cleared--- nNeeded,nFlags: 3,3
+---Chain #35 Square @ (11, 18) cleared--- nNeeded,nFlags: 2,2
+---Chain #35 Square @ (11, 17) cleared--- nNeeded,nFlags: 2,2
+Chain #35 called for self-destruct
+Evaluating chain#34...
+Chain #34 should be dead and outdated.
+Chain #34 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22F21F11F3F2...1F
+.1223F3211113F31..11
+111F22F1.11223F1..11
+F122212211F2F322..1?
+111?????11121??1..1?
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11000000000000001111
+00000000000000000000
+00000000000000000000
+00011110001111100111
+00011110001111100111
+00011110001111100111
+00000000001110000111
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()(34,)(34,)(34,)(34,)()()()(35,)(35,)(35,)(35,)(35,)()()(36,)(36,)(36,)
+()()()(34,)(34,)(34,)(34,)()()()(35,)(35,)(35,)(35,)(35,)()()(36,)(36,)(36,)
+()()()(34,)(34,)(34,)(34,)()()()(35,)(35,)(35,)(35,)(35,)()()(36,)(36,)(36,)
+()()()()()()()()()()(35,)(35,)(35,)()()()()(36,)(36,)(36,)
+max eval label: 36
+isOverLimit: false
+Evaluating chain#36...
+---Chain #36 Square @ (18, 19) outdated/not solved---
+---Chain #36 Square @ (18, 18) outdated/not solved---
+---Chain #36 Square @ (19, 17) cleared--- nNeeded,nFlags: 1,1
+---Chain #36 Square @ (18, 19) cleared--- nNeeded,nFlags: 1,1
+---Chain #36 Square @ (18, 18) cleared--- nNeeded,nFlags: 1,1
+---Chain #36 Square @ (18, 17) cleared--- nNeeded,nFlags: 1,1
+Chain #36 called for self-destruct
+Evaluating chain#35...
+Chain #35 should be dead and outdated.
+Chain #35 called for self-destruct
+Evaluating chain#34...
+Chain #34 should be dead and outdated.
+Chain #34 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22F21F11F3F2...1F
+.1223F3211113F31..11
+111F22F1.11223F1..11
+F122212211F2F322..1F
+111?????11121??1..11
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11000000000000001111
+00000000000000000000
+00000000000000000000
+00011110001111100111
+01122221111111100111
+01122221111111100111
+01111111111110000111
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()(34,)(34,)(34,)(34,)()()()(35,)(35,)(35,)(35,)(35,)()()(36,)(36,)(36,)
+()(37,)(37,)(34,37,)(34,37,)(34,37,)(34,37,)(37,)(37,)(37,)(35,)(35,)(35,)(35,)(35,)()()(36,)(36,)(36,)
+()(37,)(37,)(34,37,)(34,37,)(34,37,)(34,37,)(37,)(37,)(37,)(35,)(35,)(35,)(35,)(35,)()()(36,)(36,)(36,)
+()(37,)(37,)(37,)(37,)(37,)(37,)(37,)(37,)(37,)(35,)(35,)(35,)()()()()(36,)(36,)(36,)
+max eval label: 37
+isOverLimit: false
+Evaluating chain#37...
+---Chain #37 Square @ (2, 18) cleared--- nNeeded,nFlags: 2,2
+---Chain #37 Square @ (3, 18) cleared--- nNeeded,nFlags: 2,2
+---Chain #37 Square @ (4, 18) cleared--- nNeeded,nFlags: 2,2
+---Chain #37 Square @ (5, 18) cleared--- nNeeded,nFlags: 1,1
+---Chain #37 Square @ (6, 18) outdated/not solved---
+---Chain #37 Square @ (7, 18) outdated/not solved---
+---Chain #37 Square @ (8, 19) cleared--- nNeeded,nFlags: 1,1
+---Chain #37 Square @ (2, 19) cleared--- nNeeded,nFlags: 1,1
+---Chain #37 Square @ (6, 18) cleared--- nNeeded,nFlags: 2,2
+---Chain #37 Square @ (7, 18) cleared--- nNeeded,nFlags: 2,2
+---Chain #37 Square @ (8, 18) cleared--- nNeeded,nFlags: 1,1
+Chain #37 called for self-destruct
+Evaluating chain#36...
+Chain #36 should be dead and outdated.
+Chain #36 called for self-destruct
+Evaluating chain#35...
+Chain #35 should be dead and outdated.
+Chain #35 called for self-destruct
+Evaluating chain#34...
+Chain #34 should be dead and outdated.
+Chain #34 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22F21F11F3F2...1F
+.1223F3211113F31..11
+111F22F1.11223F1..11
+F122212211F2F322..1F
+111F1.1F11121??1..11
+canMakeChain: true
+IDField:
+00000012211111000111
+00000012211111000111
+00000001111111000111
+00000000000000001222
+00000111110000112211
+00000111110000112211
+00000111110000122200
+00000112220000122110
+00000001110000011110
+00000001110000011110
+00000001110000001110
+11000000000000001111
+11000000000000001111
+11000000000000001111
+00000000000000000000
+00000000000000000000
+00011110001111100111
+01122221111122211111
+01122221111122211111
+01111111111121111111
+
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()(9,)(9,10,)(9,10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()(10,)(10,)(10,)(10,)(12,)(12,)(12,)()()()(13,)(13,)(13,)
+()()()()()()()()()()()()()()()()(16,)(13,16,)(13,16,)(13,16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,)(16,19,)(16,19,)(16,)(16,)
+()()()()()(18,)(18,)(18,)(18,)(18,)()()()()(19,)(19,20,)(19,20,)(19,20,)()()
+()()()()()(18,)(18,)(6,18,)(6,18,)(6,18,)()()()()(19,)(19,20,)(19,20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()(20,)(20,)(20,)(20,)()
+()()()()()()()(6,)(6,)(6,)()()()()()()(20,)(20,)(20,)()
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+(23,)(23,)()()()()()()()()()()()()()()(24,)(24,)(24,)(24,)
+()()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()
+()()()(34,)(34,)(34,)(34,)()()()(35,)(35,)(35,)(35,)(35,)()()(36,)(36,)(36,)
+()(37,)(37,)(34,37,)(34,37,)(34,37,)(34,37,)(37,)(37,)(37,)(35,)(35,)(35,38,)(35,38,)(35,38,)(38,)(38,)(36,)(36,)(36,)
+()(37,)(37,)(34,37,)(34,37,)(34,37,)(34,37,)(37,)(37,)(37,)(35,)(35,)(35,38,)(35,38,)(35,38,)(38,)(38,)(36,)(36,)(36,)
+()(37,)(37,)(37,)(37,)(37,)(37,)(37,)(37,)(37,)(35,)(35,)(35,38,)(38,)(38,)(38,)(38,)(36,)(36,)(36,)
+max eval label: 38
+isOverLimit: false
+Evaluating chain#38...
+---Chain #38 Square @ (15, 18) cleared--- nNeeded,nFlags: 2,2
+---Chain #38 Square @ (14, 18) cleared--- nNeeded,nFlags: 2,2
+---Chain #38 Square @ (13, 18) cleared--- nNeeded,nFlags: 3,3
+---Chain #38 Square @ (15, 19) cleared--- nNeeded,nFlags: 1,1
+Chain #38 called for self-destruct
+Evaluating chain#37...
+Chain #37 should be dead and outdated.
+Chain #37 called for self-destruct
+Evaluating chain#36...
+Chain #36 should be dead and outdated.
+Chain #36 called for self-destruct
+Evaluating chain#35...
+Chain #35 should be dead and outdated.
+Chain #35 called for self-destruct
+Evaluating chain#34...
+Chain #34 should be dead and outdated.
+Chain #34 called for self-destruct
+Evaluating chain#24...
+Chain #24 should be dead and outdated.
+Chain #24 called for self-destruct
+Evaluating chain#23...
+Chain #23 should be dead and outdated.
+Chain #23 called for self-destruct
+Evaluating chain#20...
+Chain #20 should be dead and outdated.
+Chain #20 called for self-destruct
+Evaluating chain#19...
+Chain #19 should be dead and outdated.
+Chain #19 called for self-destruct
+Evaluating chain#18...
+Chain #18 should be dead and outdated.
+Chain #18 called for self-destruct
+Evaluating chain#16...
+---Chain #16 Square @ (19, 4) outdated/not solved---
+---Chain #16 Square @ (18, 4) outdated/not solved---
+---Chain #16 Square @ (17, 4) outdated/not solved---
+Evaluating chain#13...
+Chain #13 should be dead and outdated.
+Chain #13 called for self-destruct
+Evaluating chain#12...
+---Chain #12 Square @ (12, 1) outdated/not solved---
+---Chain #12 Square @ (12, 0) outdated/not solved---
+Evaluating chain#10...
+Chain #10 should be dead and outdated.
+Chain #10 called for self-destruct
+Evaluating chain#9...
+Chain #9 should be dead and outdated.
+Chain #9 called for self-destruct
+Evaluating chain#6...
+Chain #6 should be dead and outdated.
+Chain #6 called for self-destruct
+revealedField:
+......12F11?1.....11
+......1F32334321..1F
+......112F2FFFF1..11
+...111..1122332211..
+...1F1.........1F211
+..123221111211.223??
+..1F2F3F33F2F112F3??
+..1122F4FF22222F3F2?
+.....12F321.1F21211?
+.111..1221.1221.111?
+.1F1...1F1.1F1..2F3?
+1221111111.111.13FF1
+1F1.1F211111..12F321
+1221112F11F1..1F21..
+.2F21122222221211.11
+.2F22F21F11F3F2...1F
+.1223F3211113F31..11
+111F22F1.11223F1..11
+F122212211F2F322..1F
+111F1.1F111212F1..11
+canMakeChain: false
